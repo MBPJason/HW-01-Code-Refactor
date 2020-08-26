@@ -21,8 +21,8 @@ header h1 {
   font-size: 48px;
 }
 
-.header h1 .seo {
-  color: #d9dcd6;
+.seo {
+  color: #343534;
 }
 
 /* Changed to nav element so css is properly applied */
@@ -52,7 +52,7 @@ p {
   font-size: 16px;
 }
 
-/* put class into figure tag */
+/* Put class into figure tag */
 .hero {
   height: 800px;
   width: 100%;
