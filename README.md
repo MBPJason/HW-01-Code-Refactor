@@ -1,10 +1,14 @@
 # HW-01-Code-Refactor
 
-Making the homework prettier and more accessible. 
+Making the homework code more readable, replacing all div elements with html semantics elements, and more accessible.
+
+## Preview
+
+![Preview Screenshot](./assets/images/Preview.png)
 
 ## Where to access
 
-Access website: <a href="https://mbpjason.github.io/HW-01-Code-Refactor/">Horiseon</a>
+Access website: [Horiseon Home Page](https://mbpjason.github.io/HW-01-Code-Refactor/)
 
 ## Accessability
 
